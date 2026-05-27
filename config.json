@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcerify",
+        "uuid": 31105545,
+        "checksum": "n7inwp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
